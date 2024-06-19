@@ -18,6 +18,8 @@ class SelectAllController extends Controller
     /** 共通部品 */
     public CommonService $commonService;
 
+    /** 修正2回目 */
+
     /**
      * コンストラクタ
      * 
