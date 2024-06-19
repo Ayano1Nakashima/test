@@ -14,7 +14,7 @@ use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
 class SelectAllController extends Controller
-{
+{   /**修正追加 */
     /** 共通部品 */
     public CommonService $commonService;
 
